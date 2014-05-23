@@ -1,0 +1,17 @@
+{
+  "name": "hacksports-api",
+  "version": "0.0.0",
+  "description": "API for our crowd-collected data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Gfeller <max.gfeller@gmail.com>",
+  "license": "proprietary",
+  "dependencies": {
+    "bytewise": "^0.7.0",
+    "hapi": "^5.0.0",
+    "leveldown": "^0.10.2",
+    "levelup": "^0.18.3"
+  }
+}
